@@ -1,0 +1,33 @@
+h1{
+
+    text-align: center;
+    color:blanchedalmond;
+    background-color: black;
+    border: solid 5px black;
+    border-radius: 6px;
+    padding: 1px;
+    margin: 1px;
+    
+}
+body{
+    background-image: url(o.JPG);
+    background-size: cover;
+}
+label{
+display: block;
+padding: 10px;
+margin: 10px;
+color: black;
+text-decoration: underline;
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+a{
+color: black;
+border: solid 1px cornsilk;
+text-decoration: none;
+
+}
+p{
+    color:brown;
+}

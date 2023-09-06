@@ -1,0 +1,11 @@
+body{
+
+    background-color: gray;
+}
+mark{
+    font-size: larger;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}

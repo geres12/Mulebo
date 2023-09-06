@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    height: 5px;
+    width: 5px;
+    
+}
+label{
+
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: underline;
+    color: black;
+}
+a{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 6px;
+    border: solid 1px;
+    float: right ;
+    color: black;
+}
+.z{
+    background-color: teal;
+    text-align: center;
+    float: left;
+}

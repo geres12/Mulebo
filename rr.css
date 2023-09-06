@@ -1,0 +1,42 @@
+body{
+    background-image: url(Y.JPG);
+    background-size: cover ;
+}
+h1 {
+    text-align: center;
+border: solid 2px;
+border-radius: 6px;
+border-color: white;
+color: white;
+background-color: black;
+
+    
+}
+h4{
+text-align: center;
+color: blanchedalmond;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tt{
+    border-radius: 6px;
+    border: solid 1px;
+
+}
+.cc{
+border-radius:6px ;
+border: solid 1px;
+}
+.bb{
+    border: solid 1px;
+border-radius: 6px;
+}
+p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+color:white;
+}
+.ee{
+border: solid 1px;
+border-radius: 6px;
+}
